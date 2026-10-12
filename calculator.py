@@ -12,7 +12,7 @@ print("Addition:", num1 + num2)
 print("Subtraction:", num1 - num2)
 print("Multiplication:", num1 * num2)
 
-# Handle division by zero
+# Handle division by zero.
 if num2 != 0:
     print("Division:", num1 / num2)
 else:
